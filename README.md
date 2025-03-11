@@ -35,3 +35,4 @@ dotnet build
 
 Run the program using:
 dotnet run
+https://github.com/ad1vhaho/Prog2AIceT.git 
